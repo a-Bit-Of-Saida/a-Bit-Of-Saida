@@ -1,4 +1,3 @@
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 <h1 align="center">Hi 👋, I'm Saida Covrk</h1>
 <h3 align="center">A passionate Business Informationssystems student.</h3>
 
