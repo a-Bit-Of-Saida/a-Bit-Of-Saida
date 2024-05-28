@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-bit-of-saida&label=Profile%20views&color=0e75b6&style=flat" alt="a-bit-of-saida" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-bit-of-saida" alt="a-bit-of-saida" /></a> </p>
 
 - 🔭 I’m currently working on [Buzzword-Bingo](https://github.com/a-Bit-Of-Saida/BSRN-Gruppenaufgabe)
 
