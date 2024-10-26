@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-bit-of-saida&label=Profile%20views&color=0e75b6&style=flat" alt="a-bit-of-saida" /> </p>
 
 
-- 🔭 I’m currently working on (First Spring Boot Project)(https://github.com/a-Bit-Of-Saida/Saida-Repo))
+- 🔭 I’m currently working on First Spring Boot Project https://github.com/a-Bit-Of-Saida/Saida-Repo
 
 - 📫 How to reach me **saida@covrk.de**
 
