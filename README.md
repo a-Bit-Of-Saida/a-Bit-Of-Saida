@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-bit-of-saida&show_icons=true&theme=dark&locale=en" alt="a-bit-of-saida" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-bit-of-saida&theme=dark" alt="a-bit-of-saida" /></p>
+
