@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-bit-of-saida&label=Profile%20views&color=0e75b6&style=flat" alt="a-bit-of-saida" /> </p>
 
 
-- 🔭 I’m currently working on my first WebApp [Lernsystem](https://github.com/a-Bit-Of-Saida/WebAppLernsystem)
+- 🔭 I’m currently working on CIS Schwerpunkt 4. Semester [Corporate Information Systems Schwerpunkt](https://github.com/a-Bit-Of-Saida/CIS-Schwerpunkt-4.Semester)
 
 - 📫 How to reach me **saida@covrk.de**
 
